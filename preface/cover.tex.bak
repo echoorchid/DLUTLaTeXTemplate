@@ -8,17 +8,17 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\cdegree{硕士学位论文}
-\ctitle{大连理工大学硕士学位论文格式规范}
-\etitle{The \LaTeX{} Template of Undergraduate Graduation Project of DUT}
+\cdegree{大连理工大学本科毕业设计（论文）}
+\ctitle{大连理工大学本科毕业设计论文~\LaTeX{}~模版}
+\etitle{The \LaTeX{} Template of Undergraduate Graduation Project (Thesis) of DUT}
 
 % 根据需要添加字符间距
-\cschool{~~~~~~信息与通信工程学院}
-\csubject{~~~~~~信息与通信工程专业}
-\cauthor{~~~~~~胡卫东}
-\cauthorno{~~~~~~21409050}
-\csupervisor{~~~~~~}
-\creviewer{~~~~~~孙怡~~教授}
+\cschool{~~~~~~能~源~与~动~力~学~院}
+\csubject{~~~~~~计~算~数~学~专~业}
+\cauthor{~~~~~~张~~　~~三}
+\cauthorno{~~~~~~200801000}
+\csupervisor{~~~~~~王~~老~~五　副教授}
+\creviewer{~~~~~~张~~老~~三　教授}
 
 % 这里默认使用最后编译的时间，也可自行给定日期，注意汉字和数字之间的空格。
 \cdate{~~~~~~\the\year~年~\the\month~月~\the\day~日}
